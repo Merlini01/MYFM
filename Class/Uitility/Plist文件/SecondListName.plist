@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>       睡前</string>
+	<string>       旅行</string>
+	<string>       散步</string>
+	<string>       坐车</string>
+	<string>       独处</string>
+	<string>       失恋</string>
+	<string>       失眠</string>
+	<string>       随便</string>
+	<string>       无聊</string>
+	<string>       烦躁</string>
+	<string>       悲伤</string>
+	<string>       孤独</string>
+	<string>       已弃疗</string>
+	<string>       减压</string>
+	<string>       无奈</string>
+	<string>       快乐</string>
+	<string>       感动</string>
+	<string>       迷茫</string>
+</array>
+</plist>

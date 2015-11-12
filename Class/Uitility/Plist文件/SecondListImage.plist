@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>scene1</string>
+	<string>scene2</string>
+	<string>scene3</string>
+	<string>scene4</string>
+	<string>scene5</string>
+	<string>scene6</string>
+	<string>scene7</string>
+	<string>scene8</string>
+	<string>scene9</string>
+	<string>emotion1</string>
+	<string>emotion2</string>
+	<string>emotion3</string>
+	<string>emotion4</string>
+	<string>emotion5</string>
+	<string>emotion6</string>
+	<string>emotion7</string>
+	<string>emotion8</string>
+	<string>emotion9</string>
+</array>
+</plist>
